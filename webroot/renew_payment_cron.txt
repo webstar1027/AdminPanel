@@ -1,0 +1,8 @@
+Array
+(
+    [amount1] => 759.99
+    [user_id] => 47
+    [membership_id] => 6
+    [discount] => 40.00
+)
+Success! Membership process completed successfully.

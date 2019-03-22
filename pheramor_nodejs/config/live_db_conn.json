@@ -1,0 +1,6 @@
+{
+  "host"     : "pheramor.cj8f6wiiyeqq.us-east-1.rds.amazonaws.com",
+  "user"     : "pheramor_dbuser",
+  "password" : "Fa47jfjzgdkDg3a",
+  "database" : "pheramor_prod"
+}

@@ -1,0 +1,16 @@
+{
+  "staging":{
+    "host":"labs.rnftechnologies.org",
+    "port":22,
+    "user":"rnf_dev",
+    "password":"rewrAZE7ruyubeThaChugach",
+    "root":"/home/rnf_dev/public_html"
+  },
+  "live":{
+    "host":"34.234.201.235",
+    "port":21,
+    "user":"pheramor_web",
+    "password":"tBOibOJwEl%rS6",
+    "root":"/var/www/pheramor/public_html"
+  }
+}
